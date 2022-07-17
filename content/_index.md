@@ -15,4 +15,4 @@ Love Traveling, Politics, Cricket, Formula 1, Movies, and everything in Boston a
 
 This site was generated using [HUGO](https://gohugo.io/) from an [open source theme](https://github.com/eddiewebb/hugo-resume) via a Github Actions.
 
-I can be reached on the below mediums.
+I can also be reached through the below social media platforms:

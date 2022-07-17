@@ -1,5 +1,5 @@
 {
-"title":"Yayin (or) TBD",
+"title":"WIP - Yayin Travel App",
 "link":"https://yayin-test.herokuapp.com/",
 "image":"/img/yayin-wip-logo.png",
 "description":"Several travel websites follow a similar user interaction where travellers search for famous monuments or locations and then book a hotel around it and visit with friends or family. The proposed platform would be like a social network with inputs from travel bloggers, professional travellers and local users.",

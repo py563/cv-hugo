@@ -5,9 +5,11 @@
       "Java",
       "Python",
       "Javascript",
-      "c",
+      "C",
       "HTML5",
-      { "name": "C# & VB.net", "icon": "dotnet" }
+      { "name": "C# & VB.net", "icon": "dotnet" },
+      "Ruby on Rails",
+      "PHP"
     ]
   },
   {
@@ -35,7 +37,7 @@
   },
   {
     "grouping": "Operating Systems & Containers & Cloud",
-    "skills": ["Linux", "Windows", "Docker", "AWS"]
+    "skills": ["Linux", "Windows", "Docker", "AWS", "Google Cloud"]
   },
   {
     "grouping": "Tools",
@@ -46,6 +48,7 @@
       { "name": "Adobe Robohelp", "icon": "illustrator" },
       { "name": "VS Code", "icon": "visualstudio" },
       "Eclipse",
+      "Arduino",
       { "name": "MySQL Workbench", "icon": "mysql" }
     ]
   },
@@ -53,6 +56,7 @@
     "grouping": "Domain Knowledge",
     "skills": [
       "Cyber Security, Information Security",
+      "IoT",
       "Health Care",
       {
         "name": "Unemployment Insurance",

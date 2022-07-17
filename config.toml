@@ -22,9 +22,9 @@ enableGitInfo = true
     firstName = "Prajwal"
     lastName = "Maredukonda"
     address = "Warangal, TG, India"
-    contactNote = "Java and Python Developer"
+    contactNote = "Java, Python Developer and Assistant Professor"
     profileImage = "img/TechChat.jpeg"
-    email = "prajwalyashasvi@yahoo.co.in"
+    email = "hello@prajwalyashasvi.in"
     description = "Prajwal has around five years of experience as developer in Java, Python & SQL. He worked on Cyber Security Research, Unemployment Insurance, and Travel domains."
     favicon = "images/favicon.ico"
     
