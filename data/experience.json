@@ -28,12 +28,12 @@
     "company": "SymbioSys Solutions Inc",
     "project": "New Hampshire State Unemployment Insurance",
     "summary": "Symbiosys provides IT services for New Hampshire Employment Services. NHES operates web service to manage the life cycle of unemployment insurance claims and to integrate with related US federal employment systems and policies. I provided support to enhance and remove defects in the existing system through the CA Harvest ticketing and versioning tool. I made necessary code changes to the existing NHUIS web site to reflect updated policy changes in the RESEA program of the Labor Department. I also documented and redesigned the help section of the service. We were also simultaneously rewriting the legacy system to a more secure web service that uses Spring Framework, Hibernate ORM, and JPA standard. It is used by claimants across [New Hampshire](https://nhuis.nh.gov/claimant/).",
-    "range": "May 2015 – Feb 2016"
+    "range": "May 2015 - Feb 2016"
   },
   {
     "role": "Associate Software Engineer",
     "company": "Tech Mahindra",
-    "summary": "I was on a team tasked to design and develop the Integrated Test Data Management tool to support test data generation for projects. ITDM tracks test data from the requirements gathering phase to the reporting phase that improves code coverage and coordination between teams. ITDM enables the tester to fulfill the test data requirements and to upload the test data to different environments. In my senior year, a few weeks before graduation Tech Mahindra offered me a chance to venture into professional software development. Recent graduates were mandated to a ten-week fast-paced training session to learn, refresh, improve skills in Java-J2EE, SQL Databases, Design Patterns, Struts, Spring, and Hibernate ORM frameworks. We worked on multiple POCs throughout the session to understand and demonstrate design patterns and frameworks.",
+    "summary": "On a team tasked to design and develop the Integrated Test Data Management tool to support test data generation for projects. ITDM tracks test data from the requirements gathering phase to the reporting phase that improves code coverage and coordination between teams. ITDM enables the tester to fulfill the test data requirements and to upload the test data to different environments. In my senior year, a few weeks before graduation Tech Mahindra offered me a chance to venture into professional software development. Recent graduates were mandated to a ten-week fast-paced training session to learn, refresh, improve skills in Java-J2EE, SQL Databases, Design Patterns, Struts, Spring, and Hibernate ORM frameworks. We worked on multiple POCs throughout the session to understand and demonstrate design patterns and frameworks.",
     "range": "June 2012 - August 2013"
   }
 ]

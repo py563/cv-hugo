@@ -31,7 +31,7 @@ enableGitInfo = true
     # what sections
     showSkills = true
     showProjects = true
-    showOpenSource = false
+    showOpenSource = true
     showPublications = true
     publicationsAlternateName = "Presentations"
     showExperience = true
