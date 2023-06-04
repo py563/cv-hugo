@@ -5,4 +5,7 @@ sitemap:
 weight: 20
 ---
 
-A collection of efforts to which I contributed, but did not created.
+A collection of efforts to which he contributed, but did not created.
+
+- [Devicons](https://github.com/vorillaz/devicons)
+- [Vardhaman Incubation Hub](https://vardhaman-hub.co/)
