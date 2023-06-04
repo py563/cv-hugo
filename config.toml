@@ -22,11 +22,11 @@ enableGitInfo = true
     firstName = "Prajwal"
     lastName = "Maredukonda"
     address = "Warangal, TG, India"
-    contactNote = "Java, Python Developer and Assistant Professor"
+    contactNote = "Software Engineer and Assistant Professor"
     profileImage = "img/TechChat.jpeg"
     email = "hello@prajwalyashasvi.in"
-    description = "Prajwal has around five years of experience as developer in Java, Python & SQL. He worked on Cyber Security Research, Unemployment Insurance, and Travel domains."
-    favicon = "images/favicon.ico"
+    description = "Prajwal has around six years of experience as a programmer in Java, Python & SQL. He also teaches Computer Science courses at an engineering college."
+    favicon = "/favicon.ico"
     
     # what sections
     showSkills = true
@@ -60,9 +60,6 @@ enableGitInfo = true
 
 [permalinks]
   publications = "/presentations/:title/"
-  
-[params.google.analytics]
-    trackerID = "UA-162845368-2"
     
 [outputs]
 home = ["HTML", "JSON"]

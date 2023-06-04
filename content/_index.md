@@ -5,14 +5,14 @@ sitemap:
   priority: 1.0
 ---
 
-Backend developer and computer science graduate from the University of Massachusetts.
+Back-end developer and graduate of the University of Massachusetts with a degree in Computer Science.
 
-Design and develop applications in Java, Python, React, and C#.
+Has designed and developed applications in Java, Python, React, and C#.
 
-Worked on Cyber Security Research, Unemployment Insurance, and Travel domains. So the research interests appropriately include information security, machine learning, and natural language processing of regional Indian languages.
+Has worked in the domains of cyber security research, unemployment insurance, and travel. Aptly, his research interests include Information Security, Internet of Things, Cloud Computing, and Natural Language Processing of regional Indian languages.
 
-Love Traveling, Politics, Cricket, Formula 1, Movies, and everything in Boston and Hyderabad.
+Likes to travel, and can talk about cricket, F1, movies, politics, and anything from Boston to Hyderabad.
 
 This site was generated using [HUGO](https://gohugo.io/) from an [open source theme](https://github.com/eddiewebb/hugo-resume) via a Github Actions.
 
-I can also be reached through the below social media platforms:
+Also reachable on the social media platforms below:
