@@ -4,7 +4,8 @@ date: 2014-07-28T13:28:48.213Z
 tags:
   - personal
 ---
-Afew days back out of boredom, I went through posts eternally on a blog maintained by bachelor classmates. Two posts intrigued most one drafted by me and another by Almeen, which prompted me to message him on Facebook after months​.
+
+A few days back out of boredom, I went through posts eternally on a blog maintained by bachelor classmates. Two posts intrigued most one drafted by me and another by Almeen, which prompted me to message him on Facebook after months​.
 
 
 
