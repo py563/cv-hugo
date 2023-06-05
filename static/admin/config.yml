@@ -14,6 +14,7 @@ backend:
   name: github
   repo: py563/cv-hugo
   branch: wip
+  site_domain: cms.netlify.com
 
 
 media_folder: "static/img" # Folder where user uploaded files should go
