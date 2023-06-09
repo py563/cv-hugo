@@ -1,6 +1,6 @@
 {
 "title":"WIP - Yayin Travel App",
-"link":"https://yayin-test.herokuapp.com/",
+"link":"https://yayin-travel-app.onrender.com",
 "image":"/img/yayin-wip-logo.png",
 "description":"Several travel websites follow a similar user interaction where travellers search for famous monuments or locations and then book a hotel around it and visit with friends or family. The proposed platform would be like a social network with inputs from travel bloggers, professional travellers and local users.",
 "tags":["Python", "Javascript", "React", "Github","ML", "AI"]
@@ -18,4 +18,4 @@ We at Yayin would like to be the change for the travel industry. The web platfor
 
 We are looking for freelancers, developers, and data scientists to contribute to the project, the team at Yayin will compensate developers with equity in the company.
 
-To learn more about Yayin and for open positions please visit our [AngelList](https://angel.co/u/py563) profile.
+To learn more about Yayin and for open positions please visit our [careers](https://yayin-ai-labs.breezy.hr/) profile.
