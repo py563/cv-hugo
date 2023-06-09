@@ -1,0 +1,30 @@
+[
+	{
+		"name":"Architecting with Google Compute Engine",
+		"description": "Google Cloud Architecting with Google Compute Engine Specialization.",
+		"badge":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4e/c2f4c0f4bb11e69a33576c875f4294/cloud-twitter-avatar.png?auto=format%2Ccompress&dpr=1&w=100&h=100",
+		"proof":"https://coursera.org/share/10072be3ae7dfab958940f3b50a6f9bd"
+
+	},
+	{
+		"name":"Python Essentials 1",
+		"description": "Python Essentials 1 - Issued by Cisco",
+		"badge":"https://images.credly.com/size/100x100/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png",
+		"proof":"https://www.credly.com/badges/a1589869-52ac-4185-913f-b744e6587bff/public_url"
+
+	},
+	{
+		"name":"Cybersecurity Essentials",
+		"description": "Cisco verifies the earner of this badge successfully completed the Cybersecurity Essentials course.",
+		"badge":"https://images.credly.com/size/100x100/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png",
+		"proof":"https://www.credly.com/badges/e9b219af-3260-400c-9e49-d5b1d93dba95/public_url"
+
+	},
+	{
+		"name":"Introduction to Packet Tracer",
+		"description": "Cisco verifies the earner of this badge has knowledge and skills to create digital models of IP Networks and IoT Systems using Cisco Packet Tracer.",
+		"badge":"https://images.credly.com/size/100x100/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png",
+		"proof":"https://www.credly.com/badges/2d43eb18-5286-4376-8241-668a69219929/public_url"
+		
+	}
+]
