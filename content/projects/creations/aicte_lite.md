@@ -7,11 +7,18 @@
 }
 
 ### JS 101 Projects
- 
-- [AICTE LITE JS 101 Project](https://py563.github.io/AICTE_Lite_PupilFirst_JS_Project/)
+
+View the certificate that was issued to Prajwal Maredukonda on Sep 27, 2021 for the course Web Development 101 - 2021 [here](https://www.pupilfirst.school/c/210927-UOT4UH)
+
+- [Capstone Project](https://py563.github.io/AICTE_Lite_PupilFirst_JS_Project/)
 
 
-### WD 201 Projects
+### WD 201 Ruby on Rails Projects
 
-- [AICTE LITE WD 201 Todo Manager](https://wd-aicte-todo-manager.herokuapp.com/)
-- [AICTE LITE WD 201 Capstone Project](https://cafe-blanca.herokuapp.com/signin/new)
+- [Todo Manager](https://wd-aicte-todo-manager.herokuapp.com/)
+- [Capstone Project](https://github.com/py563/AICTE_WD201-Cafeteria_Management)
+
+### WD 201 Node.js Projects
+
+- [Todo Manager](https://github.com/py563/AICTE_Lite_PupilFirst_WD-201-2022_Todo)
+- [Sports Scheduler](https://github.com/py563/AICTE_LITE_wd-201-sports)
