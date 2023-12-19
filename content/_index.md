@@ -14,5 +14,3 @@ Has worked in the domains of cyber security research, unemployment insurance, an
 Likes to travel, and can talk about cricket, F1, movies, politics, and anything from Boston to Hyderabad.
 
 This site was generated using [HUGO](https://gohugo.io/) from an [open source theme](https://github.com/eddiewebb/hugo-resume) via a Github Actions.
-
-Also reachable on the social media platforms below:

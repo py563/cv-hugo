@@ -1,22 +1,23 @@
 ---
 title: "Open Fonts for Telugu"
 weight: 1
-tags: ["Telugu", "India", "Indic Languages"]
-categories: ["fonts"]
+tags: ["Telugu", "Indic Languages"]
+categories: ["Fonts", "India"]
 date: 2020-06-15
 draft: false
 author: "Prajwal"
 authorLink: "https://prajwalyashasvi.in"
-description: "List of free and open sourced fonts for telugu scripts"
 resources:
-  - name: "featured-image"
-    src: "telugu-fonts-background.png"
+  - name: "site_preview"
+    src: "assets/telugu-word-bannner.png"
 timeToRead: "5"
 ---
 
 List of free and open-sourced fonts for Telugu scripts. To use and install the below fonts, if required, you would only need to add the Telugu language on your Windows or macOS Personal Computer or Mobile phone.<!--more-->
 
 If you are facing issues adding a new language on your device, please follow the instructions posted [here](/posts/add-new-langauge/).
+
+{{< floatimg "site_preview" "350x350" "Cover Image" "center" >}}
 
 ### Noto Sans
 

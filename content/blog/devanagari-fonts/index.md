@@ -11,24 +11,25 @@ tags:
     "Nepali",
     "Rajasthani",
     "Sanskrit",
-    "India",
     "Indic Languages",
   ]
-categories: ["fonts"]
+categories: ["Fonts", "India"]
 date: 2020-06-14
 draft: false
 author: "Prajwal"
 authorLink: "https://prajwalyashasvi.in"
-description: "List of free and open sourced fonts for Devanagari scripts"
 resources:
-  - name: "featured-image"
-    src: "hindi-main-image.png"
+  - name: "site_preview"
+    src: "assets/hindi-word-bannner.png"
 timeToRead: "10"
+featured: true
 ---
 
 List of free and open-sourced fonts for languages that follow the Devanagari writing system in their scripts. To use and install the below fonts, if required, you would only need to add the Telugu language on your Windows or macOS Personal Computer or Mobile phone.<!--more-->
 
 Hindi, Marathi, Bhojpuri, Konkani, Kashmiri, Haryani, Kashmiri, Sanskrit, and more languages that branched out from Indo-Aryan language classification follow Devanagari or an adapted version of it as their writing system.
+
+{{< floatimg "site_preview" "350x350" "Cover Image" "center" >}}
 
 If you are facing issues adding a new language on your device, please follow the instructions posted [here](/posts/add-new-langauge/).
 

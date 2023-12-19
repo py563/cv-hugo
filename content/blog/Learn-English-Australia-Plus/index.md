@@ -4,7 +4,6 @@ date: 2020-04-24
 author: "Prajwal"
 tags: ["ABC", "UTS", "Margot Politis", "IELTS", "English"]
 categories: ["Videos"]
-description: "Study English IELTS Preparation, is a series of English language programs which develops skills and strategies for intermediate to advanced learners of English - especially those preparing to take the IELTS test."
 weight: 1
 draft: false
 authorLink: "https://prajwalyashasvi.in"
@@ -12,7 +11,10 @@ resources:
   - name: "site_preview"
     src: "assets/abclearnenglishcover.png"
 timeToRead: "10"
+featured: true
 ---
+
+Study English IELTS Preparation, is a series of English language programs which develops skills and strategies for intermediate to advanced learners of English - especially those preparing to take the IELTS test. <!--more-->
 
 We will deep-dive through the study English IELTS preparation course presented by Margot Politis and produced by the ABC, Australia's national public broadcaster. She holds an honors degree in Creative Arts & Drama Performance from Flinders University. Insearch team at the University of Technology, Sydney has drawn up the content for the learning series in association with Australia Broadcasting Network.
 
@@ -28,7 +30,7 @@ Notes and activities for the video are available on the corresponding page on th
 
 {{< gist py563 a77e7413aeffa8d12be459446c164d4f >}}
 
-When I prepared for the IELTS Exam back in April 2018, I curated this collection of resources. I admire the above presenters and organizations, who hosted the invaluable IELTS learning video series, lessons, and resources on the web to students as free content. Content Owners -- [ Margot Politis (ABC)  Study English: IELTS Preparation](https://links.awashedupnerd.in/aplus)
+When I prepared for the IELTS Exam back in April 2018, I curated this collection of resources. I admire the above presenters and organizations, who hosted the invaluable IELTS learning video series, lessons, and resources on the web to students as free content. Content Owners -- [ Margot Politis (ABC) Study English: IELTS Preparation](https://links.awashedupnerd.in/aplus)
 
 I would also like to thank the following content aggregators for IELTS resources.
 
