@@ -1,13 +1,13 @@
 [
   {
-    "role": "Assistant Professor",
+    "role": "Full Stack Developer and Assistant Professor",
     "company": "Vardhaman College of Engineering",
-    "summary": "Taught courses on the fundamentals of the Internet of Things, the fundamentals of cybersecurity, and cloud computing and virtualization. Certified Program Coordinator for the AICTE LITE Web Development Minor and the Google Cloud Career Readiness Program. Lead the interdepartmental website coordination team, redesigning and performing typical updates and bugfixes for the organization's WordPress-based website. Additionally, manage the university's Microsoft 365 infrastructure.",
+    "summary": "Designed, Developed and Maintained various WordPress, HUGO, and GatsbyJS websites in the organization. Manage the Microsoft 365 environment & infrastructure of the organization. Taught undergraduate courses on the Basics of the Internet of Things, Cloud Computing and Virtualization, and Fundamentals of Cybersecurity. Program Coordinator for Google Cloud Career Advancement program and AICTE LITE Pupilfirst Web Development Minor Program.",
     "range": "Nov 2020 - *"
   },
   {
-    "role": "Founder and Full Stack Developer",
-    "company": "Yayin AI Lab",
+    "role": "Co-Founder and Full Stack Developer",
+    "company": "Yayin AI Lab & AWashedUpNerd.IN",
     "summary": "Delivered a module for the Swadyamitra project using Spring Boot & Thymeleaf to Indian Oil Corp. in April 2023. We are designing two makers' products (fabrication and mass production stage). Designing a web application to provide an AI-based customized travel experience for passengers.",
     "range": "Jan 2019 - *"
   },

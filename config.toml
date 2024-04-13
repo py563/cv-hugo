@@ -19,11 +19,11 @@ enableGitInfo = true
     tag = "tags"
 
 [params]
-    firstName = "Prajwal"
+    firstName = "Prajwal Y"
     lastName = "Maredukonda"
-    address = "Warangal, TG, India"
-    contactNote = "Software Engineer and Assistant Professor"
-    profileImage = "img/TechChat.jpeg"
+    address = "Hyderabad, TG, India"
+    contactNote = "Full Stack Developer"
+    profileImage = "img/prof-2.jpg"
     email = "hello@prajwalyashasvi.in"
     description = "Prajwal has around six years of experience as a programmer in Java, Python & SQL. He also teaches Computer Science courses at an engineering college."
     favicon = "/favicon.ico"
@@ -31,7 +31,7 @@ enableGitInfo = true
     # what sections
     sections = ["skills","publications","creations","contributions","experience","education","blog"]
     publicationsAlternateName = "Presentations"
-    showQr = true
+    showQr = false
 
 	# do you want to show git hash on page footer and link to repo? Add commit prefix here.
     gitCommitPrefix = "https://github.com/py563/cv-hugo/commit/"
