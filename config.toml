@@ -25,13 +25,16 @@ enableGitInfo = true
     contactNote = "Full Stack Developer"
     profileImage = "img/prof-2.jpg"
     email = "hello@prajwalyashasvi.in"
-    description = "Prajwal has around six years of experience as a programmer in Java, Python & SQL. He also teaches Computer Science courses at an engineering college."
+    description = "Prajwal has around eight years of experience as a programmer in Java, Python & SQL. He also teaches Computer Science courses at an engineering college."
     favicon = "/favicon.ico"
     
     # what sections
-    sections = ["skills","publications","creations","contributions","experience","education","blog"]
+    sections = ["skills","experience","education","publications","creations","contributions","blog"]
     publicationsAlternateName = "Presentations"
     showQr = false
+    showContact = true
+    showCertifications = true
+    showSocializations = true
 
 	# do you want to show git hash on page footer and link to repo? Add commit prefix here.
     gitCommitPrefix = "https://github.com/py563/cv-hugo/commit/"
@@ -45,12 +48,13 @@ enableGitInfo = true
     link = "https://github.com/py563/"
 
 [[params.handles]]
-    name = "Twitter"
-    link = "https://twitter.com/py563"
-
-[[params.handles]]
     link = "https://keybase.io/prajwalyashasvi"
     name = "Keybase"
+
+[[params.handles]]
+    link = "https://cal.com/py563"
+    name = "Schedule a Meeting"
+    icon = "viber"
 
 [permalinks]
   publications = "/presentations/:title/"

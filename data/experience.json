@@ -1,6 +1,12 @@
 [
   {
-    "role": "Full Stack Developer and Assistant Professor",
+    "role": "Python Developer (Remote)",
+    "company": "Blue OCean Strategic Partners",
+    "summary": "Enhanced automation solutions for HighGate's select service hotels, expanding RPA solutions to full-service properties and integrating processes with Oracle Fusion services on Oracle Cloud. Developed Python bots to automate financial reports and manage school fee invoicing for Cedar Hill Prep.",
+    "range": "Aug 2023 - *"
+  },
+  {
+    "role": "Web Developer and Assistant Professor (Part-Time)",
     "company": "Vardhaman College of Engineering",
     "summary": "Designed, Developed and Maintained various WordPress, HUGO, and GatsbyJS websites in the organization. Manage the Microsoft 365 environment & infrastructure of the organization. Taught undergraduate courses on the Basics of the Internet of Things, Cloud Computing and Virtualization, and Fundamentals of Cybersecurity. Program Coordinator for Google Cloud Career Advancement program and AICTE LITE Pupilfirst Web Development Minor Program.",
     "range": "Nov 2020 - *"

@@ -7,8 +7,8 @@
       "Javascript",
       "C",
       "HTML5",
-      { "name": "C# & VB.net", "icon": "dotnet" },
-      "Ruby on Rails",
+      { "name": "C#", "icon": "dotnet" },
+      { "name": "Ruby on Rails", "icon": "ruby" },
       "PHP"
     ]
   },
@@ -25,19 +25,26 @@
   {
     "grouping": "Frameworks",
     "skills": [
-      "Struts",
-      { "name": "Spring", "icon": "coda" },
+      { "name": "Struts", "icon": "java" },
+      { "name": "Spring", "icon": "spring" },
       { "name": "Hibernate", "icon": "database" },
       "Django",
-      "Apache Wicket",
+      { "name": "Apache Wicket", "icon": "apache" },
       "React",
-      { "name": "HUGO", "icon": "go" },
-      { "name": "Gatsby", "icon": "react" }
+      { "name": "HUGO", "icon": "hugo" },
+      { "name": "Gatsby", "icon": "react" },
+      "Selenium"
     ]
   },
   {
     "grouping": "Operating Systems & Containers & Cloud",
-    "skills": ["Linux", "Windows", "Docker", "AWS", "Google Cloud"]
+    "skills": [
+      "Linux",
+      "Windows",
+      "Docker",
+      "AWS",
+      { "name": "Google Cloud", "icon": "googlecloud" }
+    ]
   },
   {
     "grouping": "Tools",
