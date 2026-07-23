@@ -1,6 +1,5 @@
 .DS_Store
 .vscodenotes/
-*.pdf
 .vscode/
 
 # Created by https://www.gitignore.io/api/hugo,python,visualstudio
