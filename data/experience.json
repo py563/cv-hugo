@@ -1,51 +1,54 @@
 [
-    {
-        "role": "Co-Founder and Full Stack Developer",
-        "company": "Yayin AI Lab",
-        "summary": "Built enterprise web applications using Spring Boot, React, Thymeleaf, and PostgreSQL. Delivered software modules for Indian Oil Corporation's Swadyamitra platform and the Gate Pass Management System. Designed portfolio websites and custom web solutions using Hugo, GatsbyJS, and modern frontend technologies. Developing AI-powered products and maker-focused hardware prototypes.",
-        "range": "Jan 2019 - *"
-    },
-    {
-        "role": "Full Stack Developer",
-        "company": "G30DISHA ANALYTICS",
-        "summary": "Engineering a cloud-native platform from the ground up, building both frontend and backend using modern web technologies. Designed the application architecture, database schema, REST APIs, and authentication system. Built automated CI/CD pipelines and deployed services on Google Cloud Platform (Cloud Run). Developing AI-powered solutions focused on political intelligence and analytics.",
-        "range": "Nov 2025 - July 2026"
-    },
-    {
-        "role": "Python Developer (Remote | Freelance)",
-        "company": "Blue Ocean Strategic Partners",
-        "summary": "Developed Python-based RPA solutions for automating financial reporting and Xero invoice processing. Built automation workflows for Cedar Hill Prep School and enterprise hospitality clients. Enhanced and maintained automation systems integrated with Oracle Financials for hotel operations. Improved operational efficiency by automating repetitive business processes.",
-        "range": "Aug 2024 - Nov 2025"
-    },
-    {
-        "role": "Full Stack Developer & Assistant Professor (Part-Time)",
-        "company": "Vardhaman College of Engineering",
-        "summary": "Designed, developed, and maintained institutional websites using WordPress, Hugo, and GatsbyJS. Managed the organization's Microsoft 365 environment and IT infrastructure. Taught undergraduate courses in Internet of Things, Cloud Computing, Virtualization, and Cybersecurity. Coordinated the Google Cloud Career Advancement Program and AICTE LITE Pupilfirst Web Development Minor Program.",
-        "range": "Nov 2020 - Mar 2025"
-    },
-    {
-        "role": "Java Developer",
-        "company": "Dataserv Inc",
-        "summary": "Developed backend services using Java, Spring MVC, REST APIs, and React. Implemented search and indexing solutions using Elasticsearch and MongoDB. Optimized application performance through efficient algorithms and data structures. Integrated enterprise services using JSON-based REST APIs.",
-        "range": "Jan 2018 - June 2018"
-    },
-    {
-        "role": "Cybersecurity Research Engineer",
-        "company": "Koninklijke Philips N.V.",
-        "summary": "Designed an AI-assisted phishing detection platform for Microsoft Outlook. Developed threat intelligence tools for collecting, analyzing, and visualizing cybersecurity data. Built machine learning pipelines for email classification and threat analysis. Collaborated with the Chief Information Security Office on enterprise cybersecurity initiatives.",
-        "range": "April 2016 - July 2017"
-    },
-    {
-        "role": "Software Engineer",
-        "company": "SymbioSys Solutions Inc",
-        "project": "New Hampshire State Unemployment Insurance",
-        "summary": "Developed and maintained applications for the New Hampshire Employment Security unemployment insurance system. Implemented policy updates and resolved production issues using Java, Spring, Hibernate, and JPA. Improved application accessibility and modernized legacy components. Supported secure government services used by employers and claimants across [New Hampshire](https://nhuis.nh.gov/claimant/).",
-        "range": "May 2015 - Feb 2016"
-    },
-    {
-        "role": "Associate Software Engineer",
-        "company": "Tech Mahindra",
-        "summary": "Developed modules for the Integrated Test Data Management (ITDM) platform. Automated test data generation and management across multiple environments. Built proof-of-concept enterprise applications using Java, Spring, Hibernate, Struts, and SQL. Completed intensive enterprise training in Java technologies, design patterns, and software engineering.",
-        "range": "June 2012 - August 2013"
-    }
+  {
+    "role": "Co-Founder and Full Stack Developer",
+    "company": "Yayin AI Lab",
+    "summary": "Co-founded a software startup spanning product development, client engineering and technology consulting, working across product ideas, architecture, implementation and delivery. Defined and developed the product vision for an intelligent travel platform using React with Python/Java backend services, focused on personalised multi-city trip planning, community-driven travel knowledge and privacy-conscious recommendations. Led development of enterprise applications for IndianOil, including modules within the Swadyamitra learning platform and the TAPSO Gate Pass Management System, using Spring Boot, React and Thymeleaf. Contributed to Swadyamitra learning workflows supporting learner segmentation, Satsang batch formation, coordination and course-completion reporting. Worked directly with stakeholders and client teams across requirements analysis, backend services, frontend workflows, debugging and delivery, translating business processes into software features. Worked on client websites and other software projects while continuing hands-on product and engineering work within the startup.",
+    "range": "Jun 2018 - *"
+  },
+  {
+    "role": "Full Stack Developer",
+    "company": "G30DISHA ANALYTICS",
+    "project": "[AskDIYA.ai](https://askdiya.ai)",
+    "summary": "Engineered [product](https://askdiya.ai) features across frontend and backend using Next.js and Spring Boot, including application architecture, integrating the recommendation Python/FastAPI service, database schema design, CI/CD automation and deployment on Google Cloud Run. \n Worked across the software lifecycle from requirements and implementation through deployment, debugging and production support. Worked with Git, containerised deployment and cloud-native development practices in a product engineering environment. Used and administered AI-assisted development workflows with GitHub Copilot and Claude for code generation, refactoring, debugging, documentation and development acceleration, while reviewing and validating generated code. Helped manage the team's adoption of AI coding tools, including the transition from GitHub Copilot's credit-based model to Claude-based development workflows.",
+    "range": "Nov 2025 - July 2026"
+  },
+  {
+    "role": "Python Developer (Remote)",
+    "company": "Blue Ocean Strategic Partners",
+    "summary": "Developed Python automation for Highgate's select-service and full-service hotel operations, including biweekly and monthly Purchase Card Transaction reporting integrated with Oracle Financials. Developed automation for Cedar Hill Prep covering student enrollment and school fee invoicing, integrating the workflow with Xero and Gradelink Student Information System. Worked with Product Owners and business stakeholders on requirements, business workflow clarification, technical implementation and feedback cycles.",
+    "range": "Aug 2024 - Nov 2025"
+  },
+  {
+    "role": "Full Stack Developer & Assistant Professor (Part-Time)",
+    "company": "Vardhaman College of Engineering",
+    "summary": "Led the institution's web platform and digital presence, overseeing development, administration, maintenance and continuous improvement of the college website. Coordinated the team of departmental website administrators, helping standardise website operations, content updates and technical practices across departments. Managed the organisation's Microsoft 365 infrastructure and supported institutional users and collaboration services. Designed and maintained websites using WordPress, HUGO and related web technologies, including ongoing administration and deployment work. Coordinated Google Cloud Career Advancement and AICTE LITE Pupilfirst Web Development programs, working with students, faculty and external stakeholders. Taught Cloud Computing, Internet of Things and Cybersecurity and mentored students on software and technology projects.",
+    "range": "Nov 2020 - Mar 2025"
+  },
+  {
+    "role": "Java Developer",
+    "company": "Dataserv Inc",
+    "project": "Datasong",
+    "summary": "Resolved critical defects in a Spring Boot application and developed Docker/Kubernetes-based microservices supporting core authentication and payment-processing workflows. Worked with REST APIs, Docker and Kubernetes in a service-oriented application environment. Designed supporting data structures and a helper module for JSON conversion into tree structures and element insertion, improving API data handling.",
+    "range": "Jan 2018 - May 2018"
+  },
+  {
+    "role": "Cybersecurity Research Engineer",
+    "project": "CISO R&D Team",
+    "company": "Koninklijke Philips N.V.",
+    "summary": "Developed an anti-phishing platform for Microsoft Outlook that analysed email headers and message content to identify phishing indicators and support user reporting. Researched Microsoft Exchange/Outlook add-on development. Designed a C# Outlook component for header analysis and reporting, and a VB.NET integration layer connecting the Outlook component with Python-based machine-learning algorithms. Evaluated third-party enterprise security technologies. Built a web-based threat intelligence prototype for storing and analysing security data streams, modelling relationships between threat entities and visualising data. Worked with Spring 4.x, Apache Wicket, ReactJS, Lucene and OrientDB across backend, frontend, search and data-modelling components. Customised and deployed the open-source Stucco platform on AWS to collect and parse threat intelligence streams.",
+    "range": "April 2016 - Aug 2017"
+  },
+  {
+    "role": "Software Engineer",
+    "company": "SymbioSys Solutions Inc",
+    "project": "New Hampshire State Unemployment Insurance",
+    "summary": "Maintained and enhanced the [New Hampshire](https://nhuis.nh.gov/claimant/) Unemployment Insurance System, investigating and resolving application defects through the enterprise change-management process. Implemented changes required by the updated U.S. Department of Labour RESEA program within the existing application. Contributed to the modernisation of the legacy codebase by rewriting components using Spring and Hibernate ORM. Worked across JSP, Servlets, JDBC and Oracle 12c, including application and database-layer changes. Redesigned and documented the help system using Adobe RoboHelp while supporting Section 508 and W3C accessibility requirements.",
+    "range": "May 2015 - Feb 2016"
+  },
+  {
+    "role": "Associate Software Engineer",
+    "company": "Tech Mahindra",
+    "summary": "Designed Java/Spring modules for an Integrated Test Data Management system, including ticket creation, data-validation workflows, status workflows supporting test-data generation and management across environments. Worked with Spring MVC, JDBC, JSP, MySQL, HTML, XML, CSS and AJAX across application and database layers. Developed proof-of-concept applications for dormitory allocation, bus ticket booking and railway ticket booking using Struts, Spring and Hibernate. Designed unit test cases and database schemas.",
+    "range": "June 2012 - August 2013"
+  }
 ]

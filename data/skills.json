@@ -16,23 +16,26 @@
     "grouping": "Databases",
     "skills": [
       "MySQL",
+      "PostgreSQL",
       { "name": "Oracle", "icon": "database" },
       { "name": "OrientDB", "icon": "database" },
-      { "name": "Elastic Search", "icon": "database" },
       "MongoDB"
     ]
   },
   {
     "grouping": "Frameworks",
     "skills": [
+      { "name": "Spring Boot", "icon": "java" },
+      { "name": "Spring", "icon": "java" },
+      { "name": "Hibernate", "icon": "java" },
       { "name": "Struts", "icon": "java" },
-      { "name": "Spring", "icon": "spring" },
-      { "name": "Hibernate", "icon": "database" },
-      "Django",
       { "name": "Apache Wicket", "icon": "apache" },
+      "Django",
+      "FastAPI",
+      "Node.js",
       "React",
-      { "name": "HUGO", "icon": "hugo" },
-      { "name": "Gatsby", "icon": "react" },
+      { "name": "HUGO", "icon": "go" },
+      {"name": "Next.js", "icon":"react"},
       "Selenium"
     ]
   },

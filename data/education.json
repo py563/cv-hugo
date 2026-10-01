@@ -1,7 +1,14 @@
 [
   {
+    "school": "[BITS Pilani - Hyderabad](https://bits-hyderabad.ac.in)",
+    "degree": "Ongoing",
+    "major": "Computer Science",
+    "notes": "",
+    "range": "2026 - *"
+  },
+  {
     "school": "[Trine University](https://trine.edu/)",
-    "degree": "Master of Science (Dropped out)",
+    "degree": "Completed coursework toward Master of Science",
     "major": "Information Studies",
     "notes": "Project Management, Cloud Computing, Systems Engineering Analysis, Network Management, Cybersecurity",
     "range": "2018"

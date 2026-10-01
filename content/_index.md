@@ -4,7 +4,8 @@ date: 2018-07-30T18:56:13-05:00
 sitemap:
   priority: 1.0
 ---
-**Full Stack Software Engineer · Incoming PhD Scholar @ [BITS Pilani Hyderabad](https://www.bits-pilani.ac.in/)**
+
+**Full Stack Software Engineer · Incoming PG @ [BITS Pilani Hyderabad](https://www.bits-pilani.ac.in/)**
 
 Full Stack Software Engineer based in Hyderabad with experience across enterprise software, startups, research, and academia.
 
